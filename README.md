@@ -9,7 +9,7 @@ If you are lazy below is a summarized version.
 	`rails new rails-todo-auth-api --api`
 
 - Create a new User Model
-	`rails g model User name email password_digest`
+	`rails g scaffold User name email password_digest`
 
 - Run migrations
 	`rails db:migrate`
