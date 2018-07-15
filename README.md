@@ -1,8 +1,8 @@
-# rails-todo-auth-api
+# Rails-todo-auth-api
 A rails todo application with authentication.
 
 ## How to recreate this project
-You can go (here)[https://www.pluralsight.com/guides/token-based-authentication-with-ruby-on-rails-5-api] to recreate it.
+You can go [here](https://www.pluralsight.com/guides/token-based-authentication-with-ruby-on-rails-5-api) to recreate it.
 If you are lazy below is a summarized version.
 
 - Create a new app, make it api-only
